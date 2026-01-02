@@ -23,3 +23,13 @@ The entire project is developed using pure HTML, CSS, and JavaScript, without ex
 LearnFromMe reflects my approach to front-end development—blending clean structure, meaningful interaction, and visually engaging design. It serves as a strong base that can be extended in the future with features like user authentication, backend integration, real course content, and analytics.
 
 # OUTPUT
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/22338eaa-3747-4e9d-bf53-069c5b85ebcb" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/d9b81f1f-bc50-492e-a435-c7f462707a3d" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/007d13c9-bfb4-400d-9c6c-c4a0ce9aff81" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/51f9b204-e4ef-432d-8f8e-4fee40d5656c" />
+
+
